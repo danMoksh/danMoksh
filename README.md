@@ -1,5 +1,6 @@
 # नमस्ते (greetings) !
 i am moksh dandotiya
-i am learning, exploring, and coding 
+i am learning, and exploring the coding world
  * i am learning data structures and algorithms 
- *  learning web dev 
+ * exploring web dev
+ * i have always been into aosp and linux
