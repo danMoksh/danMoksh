@@ -1,5 +1,5 @@
 # नमस्ते (greetings) !
-i am moksh dandotiya
+i am moksh dandotiya <br>
 i am learning, and exploring the coding world
  * i am learning data structures and algorithms 
  * exploring web dev
