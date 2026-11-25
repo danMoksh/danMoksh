@@ -22,3 +22,5 @@ i love Chess (1500 Elo @ chess.com) and am now reading Evolutionary Psychology b
 - inference optimization, especially on Edge Hardware
 
 if you're into any of these, i'd love to know more
+
+portfolio: [moksh.is-a.dev](https://moksh.is-a.dev)
